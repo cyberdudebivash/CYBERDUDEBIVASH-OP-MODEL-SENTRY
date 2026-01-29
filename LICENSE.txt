@@ -1,0 +1,50 @@
+CYBERDUDEBIVASH® ENTERPRISE LICENSE
+Version 1.0 – Premium Production Edition – All Rights Reserved
+Effective Date: January 29, 2026
+Copyright © 2026 CyberDudeBivash Pvt. Ltd. – Bhubaneswar, Odisha, India
+
+This License governs all use of the CYBERDUDEBIVASH® OP-MODEL-SENTRY Premium Enterprise Edition 
+and any related software, documentation, updates, and materials (collectively the "Software").
+
+1. GRANT OF LICENSE
+CyberDudeBivash Pvt. Ltd. grants the Licensee a limited, non-exclusive, non-transferable, 
+non-sublicensable, revocable license to use the Software solely for the Licensee's internal 
+business purposes, subject to payment of all applicable fees and strict compliance with this License.
+
+2. RESTRICTIONS
+You may NOT:
+- Distribute, share, sell, rent, lease, sublicense, or otherwise transfer the Software
+- Remove or alter any copyright, trademark, branding, license notice, or attribution
+- Reverse-engineer, decompile, disassemble, or derive source code (except to the extent permitted by law)
+- Use the Software to provide services to third parties (SaaS, outsourcing, consulting deliverables)
+- Use the Software in any manner that competes with CYBERDUDEBIVASH® offerings
+- Use the name “CYBERDUDEBIVASH”, “CyberDudeBivash”, or similar branding without written permission
+
+3. ATTRIBUTION & BRANDING
+Any report, output, integration, or reference to the Software must include:
+"Powered by CYBERDUDEBIVASH® OP-MODEL-SENTRY – cyberdudebivash.github.io | © 2026 CyberDudeBivash Pvt. Ltd."
+
+4. COMMERCIAL USE & LICENSING TIERS
+This is the Premium Enterprise Edition. Use in commercial products, managed services, or resale 
+requires a separate OEM/White-label or Volume License Agreement.
+
+Pricing tiers and support details are provided in the purchase agreement.
+
+5. NO WARRANTY – AS IS
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.
+CYBERDUDEBIVASH PVT. LTD. SHALL NOT BE LIABLE FOR ANY DAMAGES ARISING FROM USE OR INABILITY TO USE THE SOFTWARE.
+
+6. TERMINATION
+This License terminates immediately upon breach of any term. Upon termination, all use must cease 
+and all copies must be destroyed.
+
+7. GOVERNING LAW
+Governed by the laws of India. Exclusive jurisdiction: courts of Bhubaneswar, Odisha.
+
+8. ACCEPTANCE
+By installing, using, or accessing the Software, you accept all terms of this License.
+
+CYBERDUDEBIVASH®
+Global Cybersecurity Tools, Apps, Services, Automation & R&D Platform
+Bhubaneswar, Odisha, India | © 2026 CyberDudeBivash Pvt. Ltd.
+www.cyberdudebivash.com

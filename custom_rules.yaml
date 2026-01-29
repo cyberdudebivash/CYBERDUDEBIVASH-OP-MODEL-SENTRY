@@ -1,0 +1,41 @@
+# CYBERDUDEBIVASH® OP-MODEL-SENTRY Custom Rules
+# Format: List of rules with pattern, score, and description
+# Add your own rules here – they will be loaded automatically with --rules flag
+
+rules:
+  # Example: Detect os.system() calls
+  os_system_call:
+    pattern: r"os\.system\("
+    score: 50
+    description: "os.system() detected – high risk of command execution"
+
+  # Example: Detect subprocess.Popen or call
+  subprocess_execution:
+    pattern: r"subprocess\.(call|Popen|run)\("
+    score: 60
+    description: "subprocess execution pattern – potential reverse shell"
+
+  # Example: Detect socket connections (reverse shell indicator)
+  socket_reverse_shell:
+    pattern: r"socket\.socket\("
+    score: 45
+    description: "Socket creation – possible C2 or reverse shell setup"
+
+  # Example: Detect base64 decode + exec combo (common in pickle exploits)
+  base64_exec_chain:
+    pattern: r"base64\.b64decode.*exec\("
+    score: 80
+    description: "Base64 decode + exec chain – classic pickle RCE payload"
+
+  # Example: Detect curl/wget downloads inside pickle
+  download_payload:
+    pattern: r"(curl|wget)\s+http"
+    score: 70
+    description: "Network download pattern – likely payload fetch"
+
+  # Add more rules below as needed
+  # Example format:
+  # my_custom_rule:
+  #   pattern: r"my\.dangerous\.function\("
+  #   score: 55
+  #   description: "Custom function detected"
